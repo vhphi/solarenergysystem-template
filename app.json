@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "solarenergysystem-template",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
